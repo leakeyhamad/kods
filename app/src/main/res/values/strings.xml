@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LeakeyRenahGameDecider</string>
+    <string name="card">Card</string>
+    <string name="decide">DECIDE</string>
+    <string name="add_sport">ADD SPORT</string>
+    <string name="add_new_sport">Add New Sport</string>
+</resources>
